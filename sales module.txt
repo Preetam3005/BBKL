@@ -1,0 +1,26 @@
+sales management system
+foreign key empid
+
+
+1). enter emp id
+2) if emp id == correct :
+	print(details)
+3). show options to perform 
+
+
+
+------------------------------------------------------------------------------------------------
+4) take input
+	 insert item into stock: --new stock
+	 if item purchased:1)reduces from stock 2) bill making  3 ) sales entry made  
+	6) discount function . if possible
+5) act accordingly
+
+-------------------------------------------------------------------------------------------------
+
+if new employee , 
+1) details entered in the emp table 
+if employee resigns 
+2) details updated :
+	 status : resigned 
+3) salary updation : table emp updated
